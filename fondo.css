@@ -1,0 +1,17 @@
+body {
+    /*background: red;*/
+    /*background: url("img/bg.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position:center center;*/
+
+}
+
+.fondo {
+    width: 600px;
+    height: 600px;
+    background: url("img/bg.jpg") #000;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}

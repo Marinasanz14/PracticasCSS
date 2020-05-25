@@ -1,0 +1,12 @@
+/*
+Estructura de una regla css
+body <---> selector, al elemento al que le queremos aplicar los efectos
+color <---> Propiedad, efecto o cambio que e queremos dar al o los elementos
+blue <---> Valor, que le daremos a la propiedad
+*/
+
+
+h1 {
+    color:blue;
+}
+

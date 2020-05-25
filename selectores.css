@@ -1,0 +1,29 @@
+/* * { SElecetor universal
+    color:red;
+}*/
+
+h1, h2, h3, h4 {
+    color:blue;
+}
+
+h2 {
+    color:red;
+}
+
+div article p {
+    font-size:20px;
+    color:negro;
+}
+
+ div p a {
+    color:red;
+}
+
+.grande {
+    font-size: 28px;
+}
+
+.rojo {
+    color:red;
+}
+
